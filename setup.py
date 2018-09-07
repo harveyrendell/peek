@@ -7,6 +7,6 @@ setup(
     version='0.1.0',
     author='Harvey Rendell',
     author_email='hjrendell@gmail.com',
-    description='Peek into python code',
+    description='Peek at python code',
     packages=find_packages(),
 )

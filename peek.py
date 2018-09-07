@@ -1,4 +1,4 @@
-"""Pry into python code."""
+"""Peek at python code."""
 
 import code
 import inspect
