@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Peek',
+    name='peek',
     version='0.1.0',
     author='Harvey Rendell',
     author_email='hjrendell@gmail.com',
